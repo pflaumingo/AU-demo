@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    openstudio-api-stubs (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  openstudio-api-stubs
+
+BUNDLED WITH
+   1.17.3
