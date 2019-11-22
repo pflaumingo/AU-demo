@@ -139,6 +139,6 @@ class PTAC < ZoneHVACEquipment
     cooling_coil.additionalProperties.setFeature('system_cad_object_id', self.cad_object_id) unless self.cad_object_id.nil?
     cooling_coil.additionalProperties.setFeature('coil_type', 'primary_cooling')
     cooling_coil.setRatedCOP(self.cooling_coil_cop) if self.cooling_coil_cop
-    cooling_coil.cop
+    cooling_coil
   end
 end
