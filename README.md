@@ -8,8 +8,8 @@ OpenStudio and how Measures and Workflows work, as well as pointers to EnergyPlu
 # Getting Started with this Repository
 As a first step to learning Systems Analysis, the following videos should be viewed:
  - Webinar by Ian Molloy, Autodesk Senior Product Manager: [An Introduction to Revit Systems Analysis](https://www.youtube.com/watch?v=8kvSB5abVH4)
- - AU Class by Ian Molloy: [Revit Systems Analysis Features and Framework: An Introduction](https://autodeskuniversity.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=323529)
- - AU Class by Noah Pflaum: [Revit Systems Analysis Features and Framework—Creating Custom Workflows](https://autodeskuniversity.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=323563)
+ - AU Class by Ian Molloy: [Revit Systems Analysis Features and Framework: An Introduction](https://www.autodesk.com/autodesk-university/class/Revit-Systems-Analysis-Features-and-Framework-Introduction-2019#video)
+ - AU Class by Noah Pflaum: [Revit Systems Analysis Features and Framework—Creating Custom Workflows](https://www.autodesk.com/autodesk-university/class/Revit-Systems-Analysis-Features-and-Framework-Creating-Custom-Workflows-2019#video)
 
 Additional information regarding standard back-end assumptions can be found at the [Autodesk Knowledge Network](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Revit-Analyze/files/GUID-A262F53F-B389-4846-89EF-5855F55476A5-htm.html).
 
